@@ -1,0 +1,1 @@
+package searching_string.linear_search.negative;

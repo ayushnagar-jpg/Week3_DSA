@@ -1,0 +1,1 @@
+package searching_string.challange_linear_binary.linear_binary;
